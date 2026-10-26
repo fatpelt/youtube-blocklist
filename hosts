@@ -173,3 +173,6 @@
 0.0.0.0 youtubemobilesupport.com
 0.0.0.0 yt.be
 0.0.0.0 ytimg.com
+
+0.0.0.0 (\.|^)googlevideo\.com$
+0.0.0.0 (\.|^)youtube\.com$
